@@ -63,7 +63,7 @@ checksum = "bef38d45163c2f1dde094a7dfd33ccf595c92905c8f8f4fdc18d06fb1037718a"
 [[package]]
 name = "builtins-proc-macro"
 version = "0.0.0"
-source = "git+https://github.com/SpaiR/SpacemanDMM?rev=367bcdd75f736a91ab046d616ce56f61fb835a94#367bcdd75f736a91ab046d616ce56f61fb835a94"
+source = "git+https://github.com/ZeWaka/SpacemanDMM?rev=c4d2f2e8e3da76d2e87763f55b08b630cbdc24ae#c4d2f2e8e3da76d2e87763f55b08b630cbdc24ae"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -128,7 +128,7 @@ dependencies = [
 [[package]]
 name = "dreammaker"
 version = "0.1.0"
-source = "git+https://github.com/SpaiR/SpacemanDMM?rev=367bcdd75f736a91ab046d616ce56f61fb835a94#367bcdd75f736a91ab046d616ce56f61fb835a94"
+source = "git+https://github.com/ZeWaka/SpacemanDMM?rev=c4d2f2e8e3da76d2e87763f55b08b630cbdc24ae#c4d2f2e8e3da76d2e87763f55b08b630cbdc24ae"
 dependencies = [
  "ahash",
  "bitflags",
@@ -238,7 +238,7 @@ checksum = "71dd52191aae121e8611f1e8dc3e324dd0dd1dee1e6dd91d10ee07a3cfb4d9d8"
 [[package]]
 name = "interval-tree"
 version = "0.8.0"
-source = "git+https://github.com/SpaiR/SpacemanDMM?rev=367bcdd75f736a91ab046d616ce56f61fb835a94#367bcdd75f736a91ab046d616ce56f61fb835a94"
+source = "git+https://github.com/ZeWaka/SpacemanDMM?rev=c4d2f2e8e3da76d2e87763f55b08b630cbdc24ae#c4d2f2e8e3da76d2e87763f55b08b630cbdc24ae"
 
 [[package]]
 name = "itoa"
